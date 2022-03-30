@@ -97,7 +97,9 @@
   }
 
   
-  
+  .visible{
+    display: block;
+  }
   
   
   .row:after {
