@@ -15,6 +15,9 @@ const text = [
 ]
 
 
+document.getElementById('k');
+k.setAttribute('class' ,'.text');
+k = document.write(title[0]);
 
 
 
